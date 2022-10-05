@@ -1,0 +1,36 @@
+/* Info: https://www.w3schools.com/css/css_positioning.asp */
+/* Info: https://www.youtube.com/watch?v=L1b7xyupCcg */
+/* Info: https://www.youtube.com/watch?v=JwyjHyGOgmg */
+/* Info: https://www.youtube.com/watch?v=L1b7xyupCcg&t=406s */
+
+div {
+    background: white;
+    width: 800px
+    max-width: 100px
+}
+
+imagenes1 {
+    width: 300px;
+    height:auto;
+    margin:auto;
+    display:block;
+
+        
+        
+}
+
+imagenes2 {
+    width: 300px;
+    height:auto;
+    margin:auto;
+    display:block;
+    position:relative;
+    right: 300px;
+}
+
+imagenes3 {
+    width: 300px;
+    height:auto;
+    margin:auto;
+    display:block;
+}
