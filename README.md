@@ -31,4 +31,17 @@ Trabajos realizados en los cursos de minería de datos y exploratorio de computa
 1. Utilizar algoritmo de Luvain
 2. Mostrar comunidades
 
+## [Logistic Regresion](https://github.com/fco-hortal/Data-Science/tree/main/Logistic%20Regresion)
+
+## [Gaussian Mixtures Model](https://github.com/fco-hortal/Data-Science/tree/main/Gaussian%20Mixtures%20Model)
+
+## [Support Vectors Machines (SVM)](https://github.com/fco-hortal/Data-Science/tree/main/Support%20Vectors%20Machines%20(SVM))
+
+## [Multi-Layer Perceptron](https://github.com/fco-hortal/Data-Science/tree/main/Multi-Layer%20Perceptron)
+
+## [Autoencoders](https://github.com/fco-hortal/Data-Science/tree/main/Autoencoders)
+
+## [Clustering SP500 Stocks](https://github.com/fco-hortal/Data-Science/tree/main/Clustering%20SP500%20Stocks)
+
+
 Trabajos realizados en los cursos de mineria de datos y exploratorio de computación PUC.
